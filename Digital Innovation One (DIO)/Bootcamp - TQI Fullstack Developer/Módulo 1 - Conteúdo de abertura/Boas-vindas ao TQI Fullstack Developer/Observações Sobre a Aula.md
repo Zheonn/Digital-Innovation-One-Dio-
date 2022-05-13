@@ -1,3 +1,3 @@
 # Anotações
 
-Aula introdutória, nenhuma anotação importante.
+Aula introdutória, nenhuma anotação importante observada.
