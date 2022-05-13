@@ -10,6 +10,7 @@ Eu nunca havia interagido com Git e GitHub, então inicialmente confesso que foi
 - git remote remove origin
 - git commit -m ""
 - git add *
-- ls
 - git status
 - cd ../
+- ls
+
